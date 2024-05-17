@@ -47,22 +47,150 @@ and even Enemies!
 #### Project Management Tools and Techniques:
 - Using these tools to help us progress and manage in project management.
 
-#### Project Management Tools and Techniques in Knowledge Areas:
+### Project Management Tools and Techniques in Knowledge Areas:
 
-| Knowledge Area             | Tools/Techniques                                                                                                                                                            |
-|----------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Integration Management     | <ul><li>Project selection methods</li><li>Project management methodologies</li><li>Project charters</li><li>Project management plans</li><li>Project management software</li><li>Change requests</li><li>Change control boards</li><li>Project review meetings</li><li>Lessons-learned reports</li></ul> |
-| Scope Management           | <ul><li>Scope statements</li><li>Work breakdown structures</li><li>Mind maps</li><li>Statements of work</li><li>Requirements analyses</li><li>Scope management plans</li><li>Scope verification techniques</li><li>Scope change controls</li></ul> |
-| Schedule Management        | <ul><li>Gantt charts</li><li>Project network diagrams</li><li>Critical-path analyses</li><li>Crashing</li><li>Fast tracking</li><li>Schedule performance measurements</li></ul> |
-| Cost Management            | <ul><li>Net present value</li><li>Return on investment</li><li>Payback analyses</li><li>Earned value management</li><li>Project portfolio management</li><li>Cost estimates</li><li>Cost management plans</li><li>Cost baselines</li></ul> |
-| Quality Management         | <ul><li>Quality metrics</li><li>Checklists</li><li>Quality control charts</li><li>Pareto diagrams</li><li>Fishbone diagrams</li><li>Maturity models</li><li>Statistical methods</li></ul> |
-| Resource Management        | <ul><li>Motivation techniques</li><li>Empathic listening</li><li>Responsibility assignment matrices</li><li>Project organizational charts</li><li>Resource histograms</li><li>Team building exercises</li></ul> |
-| Communications Management  | <ul><li>Communications management plans</li><li>Kickoff meetings</li><li>Conflict management</li><li>Communications media selection</li><li>Status and progress reports</li><li>Virtual communications</li><li>Templates</li><li>Project websites</li></ul> |
-| Risk Management            | <ul><li>Risk management plans</li><li>Risk registers</li><li>Probability/impact matrices</li><li>Risk rankings</li></ul> |
-| Procurement Management     | <ul><li>Make-or-buy analyses</li><li>Contracts</li><li>Requests for proposals or quotes</li><li>Source selections</li><li>Supplier evaluation matrices</li></ul> |
-| Stakeholder Management     | <ul><li>Stakeholder registers</li><li>Stakeholder analyses</li><li>Issue logs</li><li>Interpersonal skills</li><li>Reporting systems</li></ul> |
-
-
+<table>
+  <tr>
+    <th style="width: 20%;">Knowledge Area</th>
+    <th style="width: 80%;">Tools/Techniques</th>
+  </tr>
+  <tr>
+    <td>Integration Management</td>
+    <td>
+      <ul>
+        <li>Project selection methods</li>
+        <li>Project management methodologies</li>
+        <li>Project charters</li>
+        <li>Project management plans</li>
+        <li>Project management software</li>
+        <li>Change requests</li>
+        <li>Change control boards</li>
+        <li>Project review meetings</li>
+        <li>Lessons-learned reports</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Scope Management</td>
+    <td>
+      <ul>
+        <li>Scope statements</li>
+        <li>Work breakdown structures</li>
+        <li>Mind maps</li>
+        <li>Statements of work</li>
+        <li>Requirements analyses</li>
+        <li>Scope management plans</li>
+        <li>Scope verification techniques</li>
+        <li>Scope change controls</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Schedule Management</td>
+    <td>
+      <ul>
+        <li>Gantt charts</li>
+        <li>Project network diagrams</li>
+        <li>Critical-path analyses</li>
+        <li>Crashing</li>
+        <li>Fast tracking</li>
+        <li>Schedule performance measurements</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Cost Management</td>
+    <td>
+      <ul>
+        <li>Net present value</li>
+        <li>Return on investment</li>
+        <li>Payback analyses</li>
+        <li>Earned value management</li>
+        <li>Project portfolio management</li>
+        <li>Cost estimates</li>
+        <li>Cost management plans</li>
+        <li>Cost baselines</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Quality Management</td>
+    <td>
+      <ul>
+        <li>Quality metrics</li>
+        <li>Checklists</li>
+        <li>Quality control charts</li>
+        <li>Pareto diagrams</li>
+        <li>Fishbone diagrams</li>
+        <li>Maturity models</li>
+        <li>Statistical methods</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Resource Management</td>
+    <td>
+      <ul>
+        <li>Motivation techniques</li>
+        <li>Empathic listening</li>
+        <li>Responsibility assignment matrices</li>
+        <li>Project organizational charts</li>
+        <li>Resource histograms</li>
+        <li>Team building exercises</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Communications Management</td>
+    <td>
+      <ul>
+        <li>Communications management plans</li>
+        <li>Kickoff meetings</li>
+        <li>Conflict management</li>
+        <li>Communications media selection</li>
+        <li>Status and progress reports</li>
+        <li>Virtual communications</li>
+        <li>Templates</li>
+        <li>Project websites</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Risk Management</td>
+    <td>
+      <ul>
+        <li>Risk management plans</li>
+        <li>Risk registers</li>
+        <li>Probability/impact matrices</li>
+        <li>Risk rankings</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Procurement Management</td>
+    <td>
+      <ul>
+        <li>Make-or-buy analyses</li>
+        <li>Contracts</li>
+        <li>Requests for proposals or quotes</li>
+        <li>Source selections</li>
+        <li>Supplier evaluation matrices</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Stakeholder Management</td>
+    <td>
+      <ul>
+        <li>Stakeholder registers</li>
+        <li>Stakeholder analyses</li>
+        <li>Issue logs</li>
+        <li>Interpersonal skills</li>
+        <li>Reporting systems</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 #### Purposes of Tools and Techniques in Project Management:
 - Data gathering
