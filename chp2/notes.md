@@ -206,10 +206,10 @@ and even Enemies!
 - Communication, Interpersonal and Team Skills, Ungrouped
 
 #### Project Success:
-Based on:
-1. Time, Cost, Scope goals.
-2. Customer or Sponsor satisfaction.
-3. Expected or Desired results.
+- Based on - 
+  1. Time, Cost, Scope goals.
+  2. Customer or Sponsor satisfaction.
+  3. Expected or Desired results.
  
 #### Programs and Megaprojects:
 - Program is a small group of projects.
