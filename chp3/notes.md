@@ -44,5 +44,21 @@ Financial considerations are important aspect in project management process. Exa
 
 ![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/4ac9b53c-7c01-49aa-bf89-f86cbd72973c)
 
+##### Weighted Scoring Model
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/f59197ac-9f1e-4de9-a332-c3c8f28a7be4)
+
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/ce988496-430d-491f-94f4-04adce16e08e)
+
+### Project Time Frame
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/e3870fb5-83ac-4982-86bf-58fdf050995d)
+
+### Program Selection
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/63c0c6ac-80e4-4633-828a-4db045ede5d7)
+
+### Project Portfolio Selection
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/7eb609b9-a438-4995-8bc7-8851f242b98a)
+
+
+
 
 
