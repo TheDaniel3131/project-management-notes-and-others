@@ -33,4 +33,12 @@ Financial considerations are important aspect in project management process. Exa
 
 ![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/0f16c7ad-f91c-46f2-a648-2b943cfc0065)
 
+##### Steps for Calculating NPV
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/61394619-88cc-44e1-b875-39885be24153)
+
+##### Return on Investment
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/1cccf829-5a41-44a2-9bf4-e4b0f3d0fd24)
+
+
+
 
