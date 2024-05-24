@@ -39,6 +39,10 @@ Financial considerations are important aspect in project management process. Exa
 ##### Return on Investment
 ![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/1cccf829-5a41-44a2-9bf4-e4b0f3d0fd24)
 
+##### Payback Analysis
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/7e00eb8b-3bd3-40bc-b728-4104d303044f)
+
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/4ac9b53c-7c01-49aa-bf89-f86cbd72973c)
 
 
 
