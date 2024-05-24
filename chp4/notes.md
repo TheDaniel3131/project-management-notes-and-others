@@ -1,8 +1,6 @@
 # Lesson 4
 
-### Content & Structure
-![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/16cbb4bf-2820-4e7f-a09d-6695b1841be6)
-
+### Recaps
 PMBOK (Project Management Body of Knowledge) - Guideline to manage project
 
 - Process Groups
@@ -23,3 +21,7 @@ PMBOK (Project Management Body of Knowledge) - Guideline to manage project
 8. Risk
 9. Procurement
 10. Stakeholder
+
+### Content & Structure
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/16cbb4bf-2820-4e7f-a09d-6695b1841be6)
+
