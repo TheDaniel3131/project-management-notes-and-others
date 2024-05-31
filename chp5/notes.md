@@ -23,4 +23,23 @@
 - Scope (Work to be performed)
 - Schedule Information
 - Budget Information
-- References 
+- References
+
+## Project Scope Management (Scope = Boundary of the project)
+- Involves defining and controlling what work is or not is not included in a project.
+- Includes planning scope management, collecting requirements, defining scope, and create the WBS.
+- Main documents are required documents, a requirements management plan, a requirements traceability matrix, a scope baseline to compose an approved scope statement called Work Breakdown Structure.
+
+## Planning Scope Management
+- To determine how the project scope will be defined, validated, and controlled.
+  - Validation = Formmal acceptance of deliverables by customers and stakeholders.
+  - Verification = Deliverable compiles with a regulation, requirement, specifcation or imposed condition.
+- Usually the project teams have some meetings with experts or stakeholders to develop the scope management plan.
+
+## Processes in Scope Management Plan
+- Prepare a well-detailed project scope statement.
+- Creating, maintaining, and approving the WBS.
+- Obtaining acceptance based on the project deliverables.
+- Controlling how change requests will be processed.
+
+
