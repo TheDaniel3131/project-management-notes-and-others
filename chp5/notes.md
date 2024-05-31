@@ -94,6 +94,23 @@
 - The format can vary based on project needs.
 - It may also include who owns the work package, estimated cost and schedule information, contract information if outsourced, specific quality requirements, technical and performance requirements, etc. 
 
+### Figure 4-13 Initial Mind Map
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/a4c7b302-0a48-4ebf-9abf-f6f5e0447610)
 
+### Figure 4-14 Detailed Mind Map
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/d2af25c6-9c02-457a-b620-316ee44c7633)
 
+### Figure 4-15 Sample WBS
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/80eb76f3-b71e-46a5-856e-8221e3b1c85e)
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/d30047fe-bba2-4b25-af0f-6c6b81df01b0)
+
+### Figure 4-16 Sample WBS Dictionary Entry
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/93e329d6-0738-406a-8866-bc25875235fb)
+
+### Approaches to develop WBS
+- Using guidelines or templates: provide guidelines or templates for preparing WBSs.
+- The analogy approach: Review WBSs of similar projects and tailor to your project.
+- The top-down approach: Start with the largest items of the project and break them down.
+- The bottom-up approach: Start with the specific tasks and roll them up.
+- Mind-mapping approach:  Mind mapping is a technique that uses branches radiating out from a core idea to structure thoughts and ideas.
 
