@@ -64,4 +64,36 @@
 - A work breakdown structure (WBS) is a deliverable-oriented grouping of the work involved in a project that defines the total scope of the project.
 - The WBS is a document that breaks all the work required for the project into discrete deliverables, and groups them into a logical hierarchy Often shown in two different forms: Graphical or chart form Tabular or list form.
 
+### Work Packages
+- A work package is a deliverable at the lowest level of the WBS, where it can be appropriately assigned to and managed by a single accountable person Each work package should be defined in enough detail to estimate what it would cost and how long it would take to create.
+- Each work package is part of a control account, a management control point for performance measurement where scope, budget, and schedule are integrated and compared to the earned value
+
+## Importance of Good WBS
+- Foundation document in project management because it provides the basis for planning and managing project schedules, costs, resources, and changes.
+- The WBS contains 100% of the deliverables (often called “work”) of the project—not 95%, not 102%, but 100%.
+- Often depicted in a graphical format, similar to an organizational chart; can also be shown in tabular form as an indented list of elements.
+
+### Figure 4-8 WBS birthday cake (example)
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/caf29781-d1ce-46e9-9827-3322bc6bba73)
+
+### Figure 4-9 WBS (another example)
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/7eacd2c6-9260-472e-a218-713b8bfdf4a1)
+
+### Figure 4-11 WBS:
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/010082a7-a135-471a-81f5-701007e135e8)
+
+### Create a Good WBS
+- It is difficult to create a good WBS.
+- The project manager and the project team must decide as a group how to organize the work and how many levels to include in the WBS.
+- It is often better to focus on getting the top levels of the WBS done well to avoid being distracted by too much detail
+- Many people confuse tasks on a WBS with specifications or think it must reflect a sequential list of steps.
+- You should focus on what work needs to be delivered, not when or exactly how it will be done.
+
+### Create a WBS Dictionary
+- A WBS dictionary is a document that describes the deliverables on the WBS in more detail.
+- The format can vary based on project needs.
+- It may also include who owns the work package, estimated cost and schedule information, contract information if outsourced, specific quality requirements, technical and performance requirements, etc. 
+
+
+
 
