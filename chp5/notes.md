@@ -42,6 +42,26 @@
 - Obtaining acceptance based on the project deliverables.
 - Controlling how change requests will be processed.
 
+## Collecting Requirements
+- A requirement management plan describes how project requirements will be analyzed, documented, and managed.
 
+### Output of Collecting Requirements
+- Requirements documents, which can range from a single-page checklist to a room full of notebooks with text, diagrams, images, etc.
+- A requirements traceability matrix (RTM), which is a table that lists requirements, various attributes of each requirement, and the status of the requirements to ensure that all of them are addressed
+
+#### Figure 4-5. Sample Requirements Traceability Matrix (RTM)
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/a4078ba5-c16b-415a-840f-049df0dd152e)
+
+## Defining Scope
+- Crucial to Project Success.
+- Helps to improve accuracy or quality of work, time, cost, resources estimmmates.
+- Defines a baseline for performance measurement and project control.
+- Aids in communicating tasks and responsibilities.
+- Describes product characteristics and requirement, user acceptance criteria, and deliverables.
+- Work that is not included should not be done if it is not in scope which are called project exclusions.
+
+## Creating Work Breakdown Structure
+- A work breakdown structure (WBS) is a deliverable-oriented grouping of the work involved in a project that defines the total scope of the project.
+- The WBS is a document that breaks all the work required for the project into discrete deliverables, and groups them into a logical hierarchy Often shown in two different forms: Graphical or chart form Tabular or list form.
 
 
