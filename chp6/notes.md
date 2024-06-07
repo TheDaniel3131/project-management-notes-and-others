@@ -77,3 +77,32 @@
 ## Task Dependency Types
 ![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/0d5d6b38-6651-4c6e-9e09-ba30420e55b2)
 
+## Program Evaluation and Review Technique (PERT)
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/9171d93c-4f4b-41f9-9e8d-e67c9d56f5d7)
+
+### Example
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/37fbcb4c-3233-445d-b095-e6e787529d12)
+
+## Develop Project Schedule
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/de007e7e-c5ad-41d7-9e75-a92f48711ceb)
+
+## Critical Path Analysis 
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/4fadb48d-0ae7-44e0-8739-73d5df44b502)
+
+## Project Cost Management
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/f8574804-0145-4a35-967d-bdb79330bf78)
+
+## Possible Contents of a Cost Management Plan
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/baf1bcf4-f881-4458-afce-06031a781a5a)
+
+## Estimating Cost
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/14a5cce5-f484-4905-9826-7f58d2a172a6)
+
+### Cost Estimating Techniques
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/7585fd6a-958c-4b00-a45d-79d747bb12ed)
+
+### Sample Cost Estimate
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/7357c926-0bde-4a8a-8db4-deea34c80c19)
+
+### Sample Cost Baseline
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/0ca75266-71b0-4cfa-8f47-4de70735940f)
