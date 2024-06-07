@@ -52,3 +52,28 @@
    - Sign-off of key documents
    - Completion of specific products
    - Completion of important process-related work such as awarding a contract to a supplier
+
+## Sequencing Activities
+- Involves:
+   - Review activity list and attributes.
+   - Project Scope Statement
+   - Milestone list to determine the relationships or dependecies between activities
+ 
+- Dependancy or relationship relates to the sequence of project activities or tasks.
+- Has signficiant impact on developing and managing a project schedule.
+
+## Reasons for creating dependencies
+- Mandatory dependcies - Inherit the nature of the work being performed on project.
+- Discretionary dependecies are defined by the project team.
+- External depdencies involves relationship between project and non-project activities.
+- Internal dependecies are within the project team's control, such as testing machine that must be first assembled, where all the work is done inside the team.
+
+## Network Diagrams
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/348fef19-700b-49c2-a7c4-bde42f74ce8b)
+
+## Example of Determining Critical Path for Project X
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/19ae1daf-c98d-4b5f-a7dc-9a720008a089)
+
+## Task Dependency Types
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/0d5d6b38-6651-4c6e-9e09-ba30420e55b2)
+
