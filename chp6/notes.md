@@ -93,6 +93,7 @@
 ![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/f8574804-0145-4a35-967d-bdb79330bf78)
 
 ## Possible Contents of a Cost Management Plan
+- Consists information of company policies to manage schedule and cost.
 ![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/baf1bcf4-f881-4458-afce-06031a781a5a)
 
 ## Estimating Cost
