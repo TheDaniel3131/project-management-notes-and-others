@@ -88,4 +88,12 @@
     - Escalation procedures for resolving issues
     - Revision procedures for updating the communications management plan
     - A glossary of common terminology used on the project
-    
+
+## Project Website
+- Project websites provide a centralized way of delivering project documents and other communications.
+- Some project teams also create blogs—easy-to-use journals on the Web that allow users to write entries, create links, and upload pictures, while allowing readers to post comments to particular journal entries.
+- Part of the Web site might be open to outside users, whereas other parts might be accessible only by certain stakeholders.
+- It is important to decide if and how to use a project website to help meet project communications requirements.
+
+##### Sample Website Project
+![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/df85a1b6-eb23-44da-92c6-da9b86bef25c)
