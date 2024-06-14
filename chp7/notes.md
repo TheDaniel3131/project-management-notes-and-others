@@ -71,6 +71,21 @@
 ##### RBS sample
 ![image](https://github.com/TheDaniel3131/project-management-notes-and-others/assets/71692327/f39454c8-e990-44b1-9b24-960532dad2f1)
 
+## Project Communiations Management
+- Many experts agree that the greatest threat to the success of any project is a failure to communicate.
+- Many project managers say that 90 percent of their job is communicating, yet many project managers fail to take the time to plan for project communications.
+- Project communications management involves generating, collecting, disseminating, and storing project information.
+- Key outputs include a communications management plan and a project website.
 
-
-
+## Communication Management Plans
+- Because project communication is so important, every project should include a communications management plan—a document that guides project communications.
+- The plan will vary with the needs of the project, but some type of written plan should always be prepared and address the following items:
+    - Stakeholder communications requirements
+    - Information to be communicated, format, content, and level of detail 
+    - Identification of who will receive the information and who will produce it
+    - Suggested methods or guidelines for conveying the information
+    - Description of the frequency of communication
+    - Escalation procedures for resolving issues
+    - Revision procedures for updating the communications management plan
+    - A glossary of common terminology used on the project
+    
