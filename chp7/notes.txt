@@ -1,0 +1,44 @@
+Notes from JKLee (I missed out most of the parts)
+
+Planning Projects - Stakeholder, Risk & Procurement
+
+**This topic focuses on the project risk, stakeholder and procurement knowledge areas and planning process group**
+
+Stakeholder Engagement 
+
+- Identify which stakeholders power/interests are high and their engagement as well
+
+Project Risk Management
+
+- Looks at the project risk as an uncertainty that can have a negative or positive effect on meeting the project objectives
+
+Common planning risk management processes are:
+
+identifying the risks, qualitative risk analysis, quantitative risk analysis and planning risk responses
+
+Qualitative risk analysis can be done by using:
+
+- Probability/Impact Matrix
+
+Other risk plans
+
+1. Contingency plans - for predefined actions if the identified risk event occurs
+2. Fallback plans - Risks that have a high impact on meeting the objectives 
+3. Contingency reserves/contingency allowances - Funds from project sponsor that can be used to mitigate the cost or schedule overruns if known risks occur.
+4. Management reserves - Funds for unknown risks used for management control purposes 
+
+Risk register (assignment related)
+
+- It is a document that contains the results of the risk management processes, it is displayed in a table/spreadsheet format.
+
+Project Procurement management
+
+- Refers to acquiring or procuring goods and services for a project from outside from org (outsourcing).
+
+Make-or-buy analysis
+
+- Estimate the internal cost of the product/service and compare to the cost of outsourcing.
+
+Supplier evaluation matrix 
+
+- A type of weighted scoring model on evaluating suppliers related to cost, quality, technology, past performance and management.
